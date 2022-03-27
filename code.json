@@ -1,0 +1,20 @@
+{
+  "editor.fontSize": 20,
+  "editor.wordWrap": "on",
+  "editor.cursorSmoothCaretAnimation": true,
+  "editor.cursorBlinking": "expand",
+  "editor.fontLigatures": true,
+  "editor.fontFamily": "JetBrains Mono",
+  "editor.fontWeight": 100,
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "terminal.integrated.fontSize": 15,
+  "terminal.integrated.fontFamily": "JetBrains Mono",
+  "terminal.integrated.fontWeight": 100,
+  "debug.console.fontSize": 16,
+  "debug.console.fontFamily": "JetBrains Mono",
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "workbench.colorTheme": "Learn with Sumit Theme - Dracula version",
+  "workbench.iconTheme": "material-icon-theme"
+}
