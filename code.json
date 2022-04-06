@@ -1,0 +1,40 @@
+{
+  "editor.cursorSmoothCaretAnimation": true,
+  "editor.cursorBlinking": "expand",
+  "editor.wordWrap": "on",
+  "editor.minimap.enabled": false,
+  "editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "scope": ["comment"],
+        "settings": {
+          "fontStyle": "italic"
+        }
+      }
+    ]
+  },
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.fontSize": 20,
+  "debug.console.fontSize": 20,
+  "terminal.integrated.fontSize": 20,
+  "files.autoSave": "afterDelay",
+  "workbench.colorTheme": "Learn with Sumit Theme",
+  "git.autofetch": true,
+  "editor.fontLigatures": true,
+  "editor.fontFamily": "JetBrains Mono",
+  "bracketPairColorizer.depreciation-notice": true,
+  "editor.formatOnSave": true,
+  "tailwindCSS.emmetCompletions": true,
+  "editor.fontWeight": "400",
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "tabnine.experimentalAutoImports": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "workbench.startupEditor": "none",
+  "terminal.integrated.defaultProfile.windows": "Git Bash"
+}
